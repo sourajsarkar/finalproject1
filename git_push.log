@@ -88,3 +88,9 @@ updating local tracking ref 'refs/remotes/origin/main'
 
 ------------------------
 
+Sun Oct  8 22:47:37 IST 2023
+fatal: unable to access 'https://github.com/sourajsarkar/finalproject1.git/': Could not resolve host: github.com
+Pushing to https://github.com/sourajsarkar/finalproject1.git
+
+------------------------
+
